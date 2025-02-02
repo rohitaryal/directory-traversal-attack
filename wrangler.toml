@@ -1,0 +1,2 @@
+name = "directory-traversal-attack"
+main = "./worker.js"
